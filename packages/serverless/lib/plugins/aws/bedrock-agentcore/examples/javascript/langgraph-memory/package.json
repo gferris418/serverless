@@ -13,7 +13,7 @@
     "@langchain/core": "^1.1.28",
     "@langchain/langgraph": "^1.1.5",
     "bedrock-agentcore": "^0.2.0",
-    "zod": "^4.3.6"
+    "zod": "^4.6.7"
   },
   "engines": {
     "node": "24.x"
